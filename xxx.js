@@ -19,4 +19,15 @@
 //  git status 查看那些文件修改了
 // git commit -m 'master': 提交代码
 // git push origin master 往远程分支提交代码  
-111121312312123123123
+/*
+  git status: 查看哪些文件修改了
+  git add 文件名 | .: 保存到本地
+  git commit -m '说明': 提交代码
+  git push origin 远程分支名: 往远程分支提交代码
+  git log 查看日志
+  git checkout -b 你的分支名 origin/master 创建本地分支
+  git checkout 分支名 你要切换的分支
+  git branch -v查看本地分支
+  git branch -a 查看远程分支
+*/
+12312312
